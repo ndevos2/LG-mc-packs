@@ -1,0 +1,16 @@
+Forum discussing armor layout in the file:
+https://www.minecraftforum.net/forums/minecraft-java-edition/suggestions/2242193-refactoring-armor-textures-asymmetry-and-other
+- coloured boxes legend:
+Black: Area of the helmet/head texture.
+Blue: Area of the helmet/head overlay texture(Stuff on top of the helmet/head).
+Red: Area of the boots/leg texture.
+Green: Area of the chest/body texture.
+Purple: Area of the shoulders/arm texture.
+- armor_2 is the Pants/Leg texture
+
+Shows gif of texture pack for pants; allows to see where pant leg/top half are
+https://minecraft.novaskin.me/skin/313133041/Diamond-Armor-layer-2
+
+Java edition, layouts for most mobs (in colour blocks):
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1256183-mob-skin-templates-wither-bat-and-witch-added
+
