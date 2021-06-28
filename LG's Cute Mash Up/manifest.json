@@ -2,15 +2,15 @@
   "format_version": 2,
   "header": {
     "name": "LG's Cute Mash Up [v1.17.2]",
-    "description": "Compiled by LadyGodiva222. A collection of original and modified addons. Includes: Sakura Trees by LadyGodiva222, Blushing Ghast by Haisuki, Kawaii World! Paintings by mariiecx, So Kawaii! by snowybunny, and Kal's Dye Pots and turle helmet from Kal's Heavy Armor Addon [Bedrock] by Kalam0n.",
-    "uuid": "e632fcf4-e8b2-4e5b-b0bb-4aab633a41f6",
+    "description": "Compiled by LadyGodiva222. A collection of original and modified addons. Includes: Sakura Trees by LadyGodiva222, Blushing Ghast by Haisuki, Kawaii World! Paintings by mariiecx, So Kawaii! by snowybunny, a selection of armors from maid armor! by splder, and Kal's Dye Pots, a modified Light Armor collection, and turle helmet from Kal's Heavy Armor Addon [Bedrock] by Kalam0n. See readme.txt for more details.",
+    "uuid": "240ff0cd-4644-4e8c-80fa-2767aa85d9db",
     "version": [1, 17, 2],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "5553d8b4-ea53-4154-9331-b2526b884b54",
+      "uuid": "770d56be-80ec-4b8c-800b-71124cd48b22",
       "version": [1, 17, 2]
     }
   ]

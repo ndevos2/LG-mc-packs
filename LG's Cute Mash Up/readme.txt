@@ -28,7 +28,7 @@ Replaces lumps of dye with a dye pot. Ported to Bedrock by LadyGodiva222. Versio
 
 - Kal's Light Armor Addon [Bedrock]. Created by Kalam0n.
 https://www.planetminecraft.com/texture-pack/kal-s-light-armor-bedrock/
-Replaces armor with a barely-there version. Includes iron, golden, and diamond armor. Iron and golden helmets modified to fit the goggles look of the leather, diamond, and netherite helmets included in this pack. Modified by LadyGodiva222. Version 1.0
+Replaces armor with a barely-there version. Includes iron, golden, and diamond armor. Golden helmet modified to fit the goggles look of the leather, diamond, and netherite helmets included in this pack. Modified by LadyGodiva222. Version 1.0
 
 - maid armor! Created by splder. Originally designed for Java.
 https://www.planetminecraft.com/texture-pack/maid-armor/
