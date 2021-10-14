@@ -1,4 +1,4 @@
-version 1.17.1
+version 1.17.3
 
 This Mash Up includes:
 
@@ -33,3 +33,11 @@ Replaces armor with a barely-there version. Includes iron, golden, and diamond a
 - maid armor! Created by splder. Originally designed for Java.
 https://www.planetminecraft.com/texture-pack/maid-armor/
 Replaces armor with maid outfits + cat ears. Includes the leather, chainmail, and netherite versions. Ported by LadyGodiva222. Version 1.0
+
+- Perry the Axolotl. Created by PeetRat.
+https://www.planetminecraft.com/texture-pack/perry-the-axolotl/
+Replaces the blue axolotl (the rarest one) with a model that looks like Perry the Playpus from Phineas and Ferb. 
+
+- Totemlotl. Created by DZ Crafting. Originally designed for Java.
+https://www.planetminecraft.com/texture-pack/axololotl-totem-of-undying-totemlotl/
+Replaces the Totem of Undying (Golden Vollager) with a golden axolotl. Ported to Bedrock by LadyGodiva222. Version 1.0
