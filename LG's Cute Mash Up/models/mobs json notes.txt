@@ -1,0 +1,9 @@
+Note: added 
+",
+          {
+              "origin": [ -7, 25.0, 0.5 ],
+              "size": [ 14, 10, 0 ],
+              "uv": [ 32, 0 ]
+          }
+"
+into the "cubes" section for the mob heads. Adds a second cube on top of the head (similar to a hat) using more info from the texture png (in this case, the axo gills)
