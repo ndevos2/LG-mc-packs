@@ -3,7 +3,7 @@ version 1.17.4
 This Mash Up includes:
 
 - Sakura Trees. Heavily modified from "Fresh Leaves - Blossoms", created by FreshLX. Originally designed for Java.
-https://www.planetminecraft.com/member/freshlx/
+https://www.planetminecraft.com/texture-pack/fresh-leaves-blossoms/
 Changes birch tree leaves to be cherry blossom/Sakura trees. Original pack for Java Edition 'Fresh Leaves - Blossoms', created by FreshLX. Ported to Bedrock and heavily modified by LadyGodiva222. Version 1.1 - includes sapling texture.
 
 - The turtle helmet from Kal's Heavy Armor Addon [Bedrock]. Created by Kalam0n.
