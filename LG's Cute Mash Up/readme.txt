@@ -65,3 +65,8 @@ Gives all axolotls a tophat. Gives the blue axolotl a monocle. Bucket also updat
 - Axowither. Created by pelloish
 https://www.planetminecraft.com/texture-pack/axowither/
 Replaces the Wither with an Axowither, gives Wither Skeletons an axolotl hat. Axolotl hat appears when wearing as a mob head. Modified by LadyGodiva222 to work with the cute skeleton from snowbunny's Java "So Kawaii!" retexture. Version 1.0
+
+- 'Sunny Cat (Bedrock Edition)' and 'Moon Cat (Bedrock Edition)'. Created by i4sha
+https://www.planetminecraft.com/texture-pack/sunny-cat-bedrock-edition/
+https://www.planetminecraft.com/texture-pack/moon-cat-bedrock-edition/
+Changes the shape of the sun and moon to be the silhouette of a cat's face. Originally created for Java, ported by i4sha.
