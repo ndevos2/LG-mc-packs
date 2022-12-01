@@ -2,16 +2,16 @@
   "format_version": 2,
     "header": {
         "name": "LG's Cute Mash Up",
-        "description": "Ver 1.17.6. Compiled by LadyGodiva222. A collection of original and modified addons. Includes: Sakura Trees by LadyGodiva222, Blushing Ghast by Haisuki, Kawaii World! Paintings by mariiecx. See readme.txt for more details.",
-        "uuid": "77b07091-c1b2-4105-9ec8-129cce4c1634",
-        "version": [ 1, 17, 6 ],
+        "description": "Ver 1.17.7. Compiled by LadyGodiva222. A collection of original and modified addons. Includes: Sakura Trees by LadyGodiva222, Blushing Ghast by Haisuki, Kawaii World! Paintings by mariiecx. See readme.txt for more details.",
+        "uuid": "02c1b425-7336-48b3-b17b-886faa7ebbf7",
+        "version": [ 1, 17, 7 ],
         "min_engine_version": [ 1, 16, 0 ]
     },
   "modules": [
     {
         "type": "resources",
-        "uuid": "a4729ff2-06f5-411a-9d9d-88d4a9b95cb3",
-        "version": [ 1, 17, 6 ]
+        "uuid": "233ab69e-fd20-4857-83d0-ca51c0a69385",
+        "version": [ 1, 17, 7 ]
     }
   ]
 }
